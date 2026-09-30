@@ -52,3 +52,15 @@ flowchart TD
   <br>
   <em>Synastry compatibility scoring and detailed astrological analysis dashboard</em>
 </p>
+
+
+entered user can create his main (self) profile, his ftiends or familiy members profile nad then do following operations: compatibility analysis, week analysis, career, Zodiac man... 
+based on their horoscope. with this analyses, there were visual representations too. of overall week energy, love, money, career, mind flow. this weeks sky from users geographical locations perspective. 
+readings are mix of AI astrological inteligence and deterministic mathematical calculations which leads to pure visual representations. this created really good user experiecne. 
+
+astraten got 2200+ users in just 3 months. i was marketing with instagram when i was free but mostly spread by word of mouth, in georiga. its a pure production lvl digital product, which has been sold to users online, managed to become profitable. 
+i built subscription feature with gate. nonpremium user has gate and only one compatibility reading and 3 AI chat message in a week. users card information is hadlned by dodopayments. which i built webhook infrastructure payment to be safe, consistent and fast. 
+
+
+
+
