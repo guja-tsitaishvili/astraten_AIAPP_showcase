@@ -34,3 +34,21 @@ flowchart TD
     
     A -->|Checkout Request| F[Dodo Payments API]
     F -->|Webhook Success Event| D
+
+
+## 📱 Product Showcase
+
+| 💬 AI Chat & Interpretations | 👤 Saved Profiles & Charts |
+| :---: | :---: |
+| ![AI Chat Feature](.github/assets/AIchat.png) | ![Profiles Page](.github/assets/profilespage.png) |
+| *Real-time AI astrology assistant & reading output* | *User natal chart storage & profile management* |
+
+---
+
+### 🔮 Compatibility & Readings Overview
+
+<p align="center">
+  <img src=".github/assets/readingspage.png" alt="Readings Page Showcase" width="100%">
+  <br>
+  <em>Synastry compatibility scoring and detailed astrological analysis dashboard</em>
+</p>
