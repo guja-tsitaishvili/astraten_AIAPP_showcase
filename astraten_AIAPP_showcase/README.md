@@ -35,7 +35,7 @@ flowchart TD
     A -->|Checkout Request| F[Dodo Payments API]
     F -->|Webhook Success Event| D
 
-
+```
 ## 📱 Product Showcase
 
 | 💬 AI Chat & Interpretations | 👤 Saved Profiles & Charts |
