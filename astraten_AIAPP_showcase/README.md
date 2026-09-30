@@ -40,7 +40,7 @@ flowchart TD
 
 | 💬 AI Chat & Interpretations | 👤 Saved Profiles & Charts |
 | :---: | :---: |
-| ![AI Chat Feature](.github/assets/AIchat.png) | ![Profiles Page](.github/assets/profilespage.png) |
+| ![AI Chat Feature](../.github/assets/AIchat.png) | ![Profiles Page](../.github/assets/profilespage.png) |
 | *Real-time AI astrology assistant & reading output* | *User natal chart storage & profile management* |
 
 ---
@@ -48,7 +48,7 @@ flowchart TD
 ### 🔮 Compatibility & Readings Overview
 
 <p align="center">
-  <img src=".github/assets/readingspage.png" alt="Readings Page Showcase" width="100%">
+  <img src="../.github/assets/readingspage.png" alt="Readings Page Showcase" width="100%">
   <br>
   <em>Synastry compatibility scoring and detailed astrological analysis dashboard</em>
 </p>
