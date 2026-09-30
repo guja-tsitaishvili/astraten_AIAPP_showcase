@@ -61,6 +61,14 @@ readings are mix of AI astrological inteligence and deterministic mathematical c
 astraten got 2200+ users in just 3 months. i was marketing with instagram when i was free but mostly spread by word of mouth, in georiga. its a pure production lvl digital product, which has been sold to users online, managed to become profitable. 
 i built subscription feature with gate. nonpremium user has gate and only one compatibility reading and 3 AI chat message in a week. users card information is hadlned by dodopayments. which i built webhook infrastructure payment to be safe, consistent and fast. 
 
+user data is saved and controlled via supabase API. i wanted database to be as fast as i could so i implented normalisations and indexing. when i work with the project i always imagine scenarios of how would senior lvl engineer  solve this problem, also if app was ment to be scaled. 
+since bc of that my features have real life scenario basis intuition and building approach. i normilised tables to don't have anomalies and data dublicates, and indexed. actually which i have learned well in my university curse of postgresSQL databases. i have mastered how data is saved physically. 
+what datastrucutre is most compatible. if i make reads fast what will be effect on writing. and so on. 
+
+
+
+
+
 
 
 
