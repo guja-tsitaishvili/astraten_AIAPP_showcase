@@ -54,16 +54,16 @@ flowchart TD
 </p>
 
 
-entered user can create his main (self) profile, his ftiends or familiy members profile nad then do following operations: compatibility analysis, week analysis, career, Zodiac man... 
+entered user can create his main (self) profile, his ftiends or familiy members profile and then do following operations: compatibility analysis, week analysis, career, Zodiac man... 
 based on their horoscope. with this analyses, there were visual representations too. of overall week energy, love, money, career, mind flow. this weeks sky from users geographical locations perspective. 
 readings are mix of AI astrological inteligence and deterministic mathematical calculations which leads to pure visual representations. this created really good user experiecne. 
 
-astraten got 2200+ users in just 3 months. i was marketing with instagram when i was free but mostly spread by word of mouth, in georiga. its a pure production lvl digital product, which has been sold to users online, managed to become profitable. 
-i built subscription feature with gate. nonpremium user has gate and only one compatibility reading and 3 AI chat message in a week. users card information is hadlned by dodopayments. which i built webhook infrastructure payment to be safe, consistent and fast. 
+astraten got 2200+ users in just 3 months. i was marketing with instagram when i was free but mostly spread by word of mouth, in georiga. its a pure production lvl digital product, which has been sold to users online, it managed to become profitable. 
+built subscription feature with gate. nonpremium user has gate and only one compatibility reading and 3 AI chat message in a week. users card information is hadlned by dodopayments. which i built webhook infrastructure payment to be safe, consistent and fast. 
 
-user data is saved and controlled via supabase API. i wanted database to be as fast as i could so i implented normalisations and indexing. when i work with the project i always imagine scenarios of how would senior lvl engineer  solve this problem, also if app was ment to be scaled. 
-since bc of that my features have real life scenario basis intuition and building approach. i normilised tables to don't have anomalies and data dublicates, and indexed. actually which i have learned well in my university curse of postgresSQL databases. i have mastered how data is saved physically. 
-what datastrucutre is most compatible. if i make reads fast what will be effect on writing. and so on. 
+user data is saved and controlled via supabase API. i wanted database to be as fast as i could so i implented normalisations and indexing. when  work with the project i always imagine scenarios of how would senior lvl engineer  solve this problem, also if app was ment to be scaled. 
+since bc of that my features have real life scenario basis intuition and building approach.  normilised tables to don't have anomalies and data dublicates, and indexed. actually which  have learned well in my university curse of postgresSQL databases.  have mastered how data is saved physically. 
+what datastrucutre is most compatible. if  make reads fast what will be perpomance effect on writing. and so on. 
 
 
 
