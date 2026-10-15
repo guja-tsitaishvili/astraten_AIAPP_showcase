@@ -236,9 +236,3 @@ All astrology lives in a pure layer with no I/O, which can be reasoned about and
 - **Targeted repair beats retry** once the failure reason can be passed back in.
 - **Constrained decoding is not enough.** Schema validity does not guarantee content quality, so content validators sit on top.
 - **Known debt, documented openly:** credit spending is read-then-write rather than the atomic database function that already exists; the Chinese zodiac is simplified; the "meaning engine" is partly planned and partly built.
-
----
-
-## Contact
-
-Built by **Guja Tsitaishvili**. Reach out via GitHub for a demo or technical walkthrough.
