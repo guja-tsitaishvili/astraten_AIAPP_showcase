@@ -44,6 +44,43 @@
 | **Evaluation** | Runnable harnesses that call the real model and measure repetition, shape, imagery concentration and failure-path behavior, plus deterministic unit tests for the math. |
 | **AI-assisted dev** | An agent guide, hard rules and per-folder READMEs written so coding agents can work in the repo safely. |
 
+## Screenshots
+
+All screens run in Georgian, the product's default language. Test account data.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/chat-natia-georgian.png" alt="AI chat with Natia in Georgian" />
+      <br /><b>AI chat (Georgian).</b> Streaming replies from the Natia persona. Highlighted placements are rendered by the UI from a style contract with the prompt, and the <i>"sky now"</i> chips under each reply show the live transits the answer was grounded in.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/natal-chart.png" alt="Computed natal chart wheel" />
+      <br /><b>Computed natal chart.</b> Planets, signs, ascendant and retrogrades come from in-process astronomy math, not from the LLM. This is the data every prompt is grounded in.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/natal-blueprint.png" alt="Natal blueprint with aspect lines" />
+      <br /><b>Natal blueprint.</b> The aspect lines are deterministic geometry. The portrait text above them is AI-written around those computed contacts.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/week-life-areas.png" alt="Weekly life-area score chart" />
+      <br /><b>Weekly life-area scores.</b> Love, career, energy, money and communication scored 0–100 from transits against the natal chart by a pure scoring module. The AI day-by-day text sits next to it.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="assets/readings-catalog.png" alt="Readings catalog with free and premium tiers" />
+      <br /><b>Readings catalog.</b> Compatibility, week forecast, career, Zodiac Man and past-life readings, each with its own prompt, schema and free/premium split.
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/share-poster.png" alt="Generated shareable poster" />
+      <br /><b>Shareable poster.</b> Generated client-side from a stored reading, which is possible because history replays readings through the same components that rendered them.
+    </td>
+  </tr>
+</table>
+
 ## What the product does
 
 Astraten AI is a consumer astrology product for the Georgian market, with English and Spanish also supported. It speaks as **Natia**, a warm, direct astrologer persona rather than a generic horoscope generator.
